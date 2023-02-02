@@ -1,6 +1,8 @@
 # randstab
 Generate random stabilizer quantum states explicitly.
 
+The proof of the implemented algorithm is presented in the article G.I. Struchalin _et al._ "Experimental Estimation of Quantum State Properties from Classical Shadows", [PRX Quantum 2, 010307 (2021)](https://link.aps.org/doi/10.1103/PRXQuantum.2.010307), in Appendix A.
+
 ## Dependencies
 * [Numpy](https://numpy.org/) – the fundamental package for scientific computing with Python.
 
